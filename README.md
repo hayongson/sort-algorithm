@@ -67,9 +67,15 @@
 
 * 정렬된 데이터
 
-
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMjA1MDVfNDEg/MDAxNjUxNzYyNjk4NDA1.8r2Tf3tEUnP-28h93eYrhEg8FAZNuMTluZyhMSnk1jYg.a6xBsEgQ-sG-Qgsm0srRbdv3ucTB9p-Tdj8kpoE_rR8g.PNG.dyddyd4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(15).png?type=w773" height="400px" width="600px"></p>
+<br/>
 
 * 렌덤 데이터
 
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMjA1MDVfMjQ1/MDAxNjUxNzYyNzAzMzA5._-vGEIkJkxq1KchI5aWUTMrVTeCCq-9MtCQRKXApxdEg.pcPMTvKf6GmbNXckZS6N32utkBWG0yul0V5CjQNkEp4g.PNG.dyddyd4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(13).png?type=w773" height="400px" width="600px"></p>
+<br/>
 
 * 역 정렬 데이터
+
+<p align="center"><img src="https://postfiles.pstatic.net/MjAyMjA1MDVfNjEg/MDAxNjUxNzYyNjkzNDkz._MCBJGBUgxI3iCd5LlXz-40MhETx-lCmJ8o_EsfmS3Mg.TbnJ-h6YPGJTjtm8skjfJI3onABx7BY-1k0tIWeuHsYg.PNG.dyddyd4/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(17).png?type=w773" height="400px" width="600px"></p>
+<br/>
